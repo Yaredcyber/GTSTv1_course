@@ -139,7 +139,7 @@ git steps method 1 in git
          > testing system with limited knowledge
          > you test as an user    
 
-        JOB WITH ETHICAL HACKING 
+        JOB WITH ETHICAL HACKIG 
        * cyber security expert
        * security analyst
        * cyber security consultant
