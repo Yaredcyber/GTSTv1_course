@@ -6,29 +6,29 @@
      - you can switch between your desktop enviroment
             tool kali
      1) information gathering
-   ● tools for information gathering,in system,network,host  
+   - ● tools for information gathering,in system,network,host  
      2) vulnerability analysis
-   ● tools for finding vulnerabilities
-     3) web application analysis
-   ● tools for finding vulnerabilities and exploits on websites     
+  - ● tools for finding vulnerabilities
+    -  3) web application analysis
+  - ● tools for finding vulnerabilities and exploits on websites     
      4) database assessment 
-   ● tools for finding vulnerabilites and exploit on databases
-     5) password attacks
-   ● tools for exploiting passwords for login,websites,application,windows
-     6) wireless attacks
-   ● tools for exploiting wireless systems like wifi,bluetooth..
+  -  ● tools for finding vulnerabilites and exploit on databases
+   -   5) password attacks
+  -  ● tools for exploiting passwords for login,websites,application,windows
+   -   6) wireless attacks
+   - ● tools for exploiting wireless systems like wifi,bluetooth..
      7) reverse engineering
-   ● tools for exploiting softwares,mobile application and any binary files
+  - ● tools for exploiting softwares,mobile application and any binary files
      8) exploitation tool
-   ● tools for exploiting softwares,mobile,computers,websites and any thing 
+ -  ● tools for exploiting softwares,mobile,computers,websites and any thing 
      9) sniffing & spoofing
-   ● tools for listening or hijacking network
+-  ● tools for listening or hijacking network
      10) post exploitation
-   ● tools for maintaining our access.used after exploiting asystem
-     11) forensics
-   ● tools for doing researches and invetigate acyber attacks.
-     12) reporting tools
-   ● tools for report preparation. after some forensic you will get data and you will write report and these tools will help you  
+-  ● tools for maintaining our access.used after exploiting asystem
+    -  11) forensics
+  -  ● tools for doing researches and invetigate acyber attacks.
+   -   12) reporting tools
+    ● tools for report preparation. after some forensic you will get data and you will write report and these tools will help you  
      13) social engineering tools
    ● tools used for social engineering attacks
      14) system services   
